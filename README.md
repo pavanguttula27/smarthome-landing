@@ -52,10 +52,9 @@ smarthome-landing/
 ---
 
 ## 🌐 Deployment
-You can easily host this project for free using:  
-- [GitHub Pages](https://pages.github.com/)  
-- [Netlify](https://www.netlify.com/)  
-- [Vercel](https://vercel.com/)  
+This project is live at:  
+👉 [SmartHome Landing Page – Live Demo](https://pavanguttula27.github.io/smarthome-landing/)
+
 
 ---
 
