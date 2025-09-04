@@ -59,15 +59,7 @@ You can easily host this project for free using:
 
 ---
 
-## 📸 Preview
-*Landing page preview image/screenshot can go here.*
-
----
-
 ## 📌 Author
-**G S N Pavan**  
+**Pavan Guttula**  
 *Front-End Developer | HTML, CSS, Bootstrap, JavaScript*  
 
----
-
-✨ Feel free to fork, modify, and use this project for your own portfolio!
